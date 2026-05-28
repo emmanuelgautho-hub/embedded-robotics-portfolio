@@ -4,8 +4,7 @@ Ce projet consiste en la réalisation d'une application d'acquisition, de traite
 
 ---
 
-## IHM, Ergonomie et Statistiques
-* **Statistiques globales :** Module de traitement de données pour extraire les indicateurs clés sur les différents capteurs.
+## IHM
 * **Interface Ergonomique (Bonus) :** Design de l'IHM globale pensé pour l'ergonomie utilisateur, facilitant la lecture rapide de l'ensemble de la station météo.
 
 #### Vue d'ensemble de l'IHM complète :
@@ -38,7 +37,7 @@ Ce projet consiste en la réalisation d'une application d'acquisition, de traite
 ---
 
 ### 3. Compteur (Identification & Statut)
-* **Affichage de la Station :** Rendu numérique (Integer) du numéro de la station et affichage binaire sous forme d'indicateurs LED.
+* **Affichage de la Station :** Rendu numérique (Integer) du numéro de la station et affichage binaire.
 * **Sauvegarde :** Enregistrement du numéro d'identification de la station.
 
 #### Aperçu de l'affichage du Compteur :
