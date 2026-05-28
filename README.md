@@ -36,6 +36,9 @@ Développement d'une application d'acquisition et de traitement de données pour
 * **Matériel et CAO :** MSP430, STM32F4, Arduino, KiCad
 * **Outils de développement :** Git, GitHub, VS Code, MATLAB, Simulink, VirtualBox
 
+## A propos du code
+Ces projets font partie de mon parcours académique. Les ressources partagées ici se concentrent sur le prototypage fonctionnel et la logique algorithmique plutôt que sur une optimisation prête pour la production.
+
 ## Contact
 
 * **Email :** emmanuelgautho@gmail.com
@@ -77,6 +80,9 @@ Built a data acquisition and processing application for a multi-sensor weather s
 * **Systems and OS:** Embedded Linux (BeagleBone), Real-Time Operating Systems (RTOS)
 * **Hardware and EDA:** MSP430, STM32F4, Arduino, KiCad
 * **Development Tools:** Git, GitHub, VS Code, MATLAB, Simulink, VirtualBox
+
+## About the Code
+These projects are part of my academic learning curve. The code resources shared here focus on functional prototyping and algorithm logic rather than production-ready optimization.
 
 ## Contact
 
