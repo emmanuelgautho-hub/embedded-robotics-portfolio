@@ -1,4 +1,4 @@
-# 🤖 Robot Autonome Suiveur de Ligne & Évitement d'Obstacle
+# 🏎️ Robot Autonome Suiveur de Ligne & Évitement d'Obstacle
 
 ## 📖 Le Projet 
 Ce projet consiste en la conception et le développement d'un **robot mobile autonome** intelligent basé sur le microcontrôleur **Texas Instruments MSP430G2553**. 
