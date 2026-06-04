@@ -1,0 +1,2 @@
+0 Stairs
+1 Wall
